@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Configuration
-API_KEY = "2aef7fab7a3a4aff8d443427568b7a86"
+API_KEY = "'Your_AZURE_AI_API_KEY"
 ENDPOINT = "https://dimple-ai-ser.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-02-15-preview"
 
 headers = {
